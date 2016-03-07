@@ -1,2 +1,0 @@
-# PocVideoStreaming
-Video Streaming Vr
