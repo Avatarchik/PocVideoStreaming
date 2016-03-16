@@ -1,0 +1,10 @@
+Detalles técnicos
+La aplicacion solo funciona en el dispositivo movil. 
+
+_Desarrollado en Unity3D
+_El Streaming solo funciona en la APK, no cuando se corre en Unity
+_Funciona en Android 4.1 o superior
+_El video es un Streaming de un externo consumido por un Asset
+_Desarrollada para Cardboard 
+
+Desarrollado por Matias Diaz(matias.diaz@globant.com)
